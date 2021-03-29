@@ -1,5 +1,6 @@
-# Gradle files
-.gradle/
+#MrTruy
+
+# Gradle files.gradle
 
 # User-specific configurations
 *.iml
